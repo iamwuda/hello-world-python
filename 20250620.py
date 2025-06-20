@@ -1,3 +1,5 @@
 print("Hello, World!")
 
-property
+property    
+
+print(property)
